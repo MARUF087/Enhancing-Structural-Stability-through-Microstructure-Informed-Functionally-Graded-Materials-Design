@@ -1,1 +1,1 @@
-
+The clamped thin plate shares the same geometry, loading configuration, and meshing scheme as the simply supported thin plate in the original article, differing only in its boundary conditions. Here, all edges are fixed (clamped).
